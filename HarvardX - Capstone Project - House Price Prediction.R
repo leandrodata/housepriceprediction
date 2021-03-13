@@ -24,7 +24,7 @@ library(knitr)
 
 #Retrieving train and test sets
 
-df <- read.csv("/Users/leandrocarvalho/Documents/Education/HarvardX - Data Science/HarvardX9 - Capstone Project/HarvardX9 - House Price Prediction/house-prices-advanced-regression-techniques/train.csv")
+df <- read.csv(""../input/train.csv")
 
 row.names(df) <- df$Id
 df <- df[,-1]
