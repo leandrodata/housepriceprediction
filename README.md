@@ -1,6 +1,3 @@
-# housepriceprediction
-HarvardX Capstone Project using data set from Kaggle's educational competition "House Prices - Advanced Regression Techniques"
-
 # Introduction
 
 This is an R Markdown project aiming to develop a model to predict house selling prices, developed as part of Harvard University online Professional Certificate course on Data Science, lead by Professor Rafael A. Irizarry.
